@@ -1,5 +1,5 @@
 {
-  "name": "bueltge/Multisite-Global-Media",
+  "name": "gnowland/multisite-global-media",
   "type": "wordpress-plugin",
   "require": {
     "php": ">=5.3.2",

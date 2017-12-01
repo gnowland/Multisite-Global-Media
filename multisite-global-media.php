@@ -34,7 +34,7 @@ defined( 'ABSPATH' ) || die();
  * @var    integer
  * @since  2015-01-22
  */
-const SITE_ID = 3;
+const SITE_ID = 1;
 
 add_action( 'admin_enqueue_scripts', __NAMESPACE__ . '\enqueue_scripts' );
 /**
